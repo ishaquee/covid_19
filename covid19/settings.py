@@ -25,7 +25,7 @@ SECRET_KEY = '$2p6dv&yvx^$sp(_+0xr^(s^^10vb+vy7$1zoz!p)02i^2q*yo'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'livetrackercovid19.herokuapp.com/']
+ALLOWED_HOSTS = ['127.0.0.1', 'livetrackercovid19.herokuapp.com']
 
 
 # Application definition
